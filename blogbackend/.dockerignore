@@ -1,0 +1,5 @@
+mongo/mongo_data
+node_modules
+.git
+.gitignore
+.env
